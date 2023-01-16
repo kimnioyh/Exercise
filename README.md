@@ -1,3 +1,3 @@
-# Python
+# Exercise
 
->Python 실습파일들 Commit할 예정입니다.
+>실습파일들 Commit할 예정입니다.
